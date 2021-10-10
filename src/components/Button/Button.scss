@@ -1,0 +1,27 @@
+.Button {
+  padding: 2px;
+
+  &-Input {
+
+    background: orange;
+    border-radius: 10px;
+    border: none;
+
+    color: white;
+    font-size: 28px;
+
+    &_size {
+      &_m {
+        width: 70px;
+        height: 70px;
+      }
+
+      &_l {
+
+        width: 144px;
+        height: 70px;
+      }
+    }
+  }
+
+}

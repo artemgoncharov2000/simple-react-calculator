@@ -1,0 +1,25 @@
+.Calculator {
+  display: flex;
+  flex-direction: column;
+  width: 310px;
+  height: 450px;
+  background: rgb(48, 48, 48);
+  border: 1px solid white;
+  padding: 15px;
+
+
+  &-Header {
+    //background: #61dafb;
+    align-items: center;
+    flex: 1;
+  }
+
+  &-Body {
+    display: flex;
+    //background: aliceblue;
+    flex: 8;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+}

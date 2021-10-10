@@ -1,0 +1,20 @@
+.Button {
+  padding: 2px;
+}
+.Button-Input {
+  background: orange;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: 28px;
+}
+.Button-Input_size_m {
+  width: 70px;
+  height: 70px;
+}
+.Button-Input_size_l {
+  width: 144px;
+  height: 70px;
+}
+
+/*# sourceMappingURL=Button.css.map */

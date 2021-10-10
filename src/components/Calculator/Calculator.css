@@ -1,0 +1,22 @@
+.Calculator {
+  display: flex;
+  flex-direction: column;
+  width: 310px;
+  height: 450px;
+  background: #303030;
+  border: 1px solid white;
+  padding: 15px;
+}
+.Calculator-Header {
+  align-items: center;
+  flex: 1;
+}
+.Calculator-Body {
+  display: flex;
+  flex: 8;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=Calculator.css.map */
